@@ -1,5 +1,5 @@
 # nato-alphabet
-Convert words to nato phonetic alphabet
+Convert a word to nato phonetic alphabet.
 
-Day 26
-https://www.udemy.com/course/100-days-of-code/learn/lecture/20763688#content
+    Part of 100 Days of Code: Day 26
+    https://www.udemy.com/course/100-days-of-code/learn/lecture/20763688#content
